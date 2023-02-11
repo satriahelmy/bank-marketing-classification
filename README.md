@@ -54,3 +54,8 @@ Metode yang dilakukan pada penelitian ini adalah Random Forest yang merupakan en
 
 ## Proses Eksperimentasi
 Pada proses eksperimen, saya menggunakan cross validation untuk mendapatkan hyperparameter terbaik dari model. Hyperparameter yang dipakai adalah : Jumlah Max Features, Max Depth, Criterion dan N Extimators.
+
+## Penjelasan Lebih Lengkap
+Penjelasan lebih lengkap dapat dilihat pada laman berikut:
+- easy report : https://medium.com/@helmysmp/memprediksi-client-berlangganan-deposit-dengan-data-telemarketing-menggunakan-random-forest-100bb4f4c875
+- video presentasi : https://www.youtube.com/watch?v=6J4KjDh_LLA&ab_channel=HelmySatria
